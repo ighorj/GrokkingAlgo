@@ -1,2 +1,2 @@
 # GrokkingAlgo
-repo on Algos from Grokking Algorithm,s
+repo on Algos from Grokking Algorithms
